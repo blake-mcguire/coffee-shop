@@ -1,0 +1,13 @@
+.teas-list{
+   background-color: beige;
+}
+
+ul{
+   list-style-type: square;
+   padding: 2px;
+}
+
+li{
+    border-top: 2px dotted peachpuff;
+    padding: 6px 0;
+}
